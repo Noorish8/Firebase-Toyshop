@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271682210900",
+    "project_id": "toyshop-29ead",
+    "storage_bucket": "toyshop-29ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271682210900:android:703757ee3096a1c4f3f1c1",
+        "android_client_info": {
+          "package_name": "com.example.toyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271682210900-8lr4c5kmsfbhq0i3dlhb4r2l4t332dr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUJGDrO0SjBJf6m1tMKRQq7AcvcnoQuBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271682210900-8lr4c5kmsfbhq0i3dlhb4r2l4t332dr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
