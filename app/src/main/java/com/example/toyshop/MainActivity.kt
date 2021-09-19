@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
                             // result.getAdditionalUserInfo().isNewUser()
                         } else {
                             Log.e(TAG, "Error signing in with email link", task.exception)
-                            Toast.makeText(this,"eee",Toast.LENGTH_LONG).show()
+                            Toast.makeText(this,"sign up your account",Toast.LENGTH_LONG).show()
                         }
                     }
             }
